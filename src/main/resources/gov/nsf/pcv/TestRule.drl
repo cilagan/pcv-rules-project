@@ -1,0 +1,9 @@
+package gov.nsf.pcv;
+
+rule "Test"
+
+when
+
+then
+	System.out.println( "You are poor!" );
+end
