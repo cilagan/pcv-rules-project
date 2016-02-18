@@ -5,5 +5,5 @@ rule "Test"
 when
 
 then
-	System.out.println( "You are rich!" );
+	System.out.println( "You are branch1!" );
 end
