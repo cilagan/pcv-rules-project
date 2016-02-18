@@ -5,5 +5,5 @@ rule "Test"
 when
 
 then
-	System.out.println( "You are poor!" );
+	System.out.println( "You are rich!" );
 end
